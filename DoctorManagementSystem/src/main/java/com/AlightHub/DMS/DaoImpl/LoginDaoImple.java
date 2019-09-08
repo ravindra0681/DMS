@@ -8,6 +8,7 @@ public class LoginDaoImple implements LoginDao {
 	@Override
 	public Login loginCheck() {
 		// TODO Auto-generated method stub
+		System.out.println("Hiiiiiiiiiii");
 		return null;
 	}
 
